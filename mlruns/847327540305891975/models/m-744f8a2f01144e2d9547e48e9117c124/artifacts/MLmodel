@@ -1,0 +1,22 @@
+artifact_path: file:///C:/Users/Lenovo/Documents/AI-Predictive-Maintenance/mlruns/847327540305891975/models/m-744f8a2f01144e2d9547e48e9117c124/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.11.1
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.7.2
+mlflow_version: 3.6.0
+model_id: m-744f8a2f01144e2d9547e48e9117c124
+model_size_bytes: 70470764
+model_uuid: m-744f8a2f01144e2d9547e48e9117c124
+prompts: null
+run_id: 5aa2c7a813d34885b27fd7285dbf5e33
+utc_time_created: '2025-11-22 11:26:16.175897'

@@ -1,0 +1,17 @@
+pandas
+numpy
+scikit-learn
+mlflow
+joblib
+xgboost
+matplotlib
+seaborn
+apache-airflow 
+# Testing & Quality
+pytest
+pytest-cov
+coverage
+
+# Code Quality
+flake8
+python-dotenv

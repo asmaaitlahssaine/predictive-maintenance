@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Lenovo/Documents/AI-Predictive-Maintenance/mlruns/847327540305891975/95e6e943bdd5454f8ef50b193ff3379c/artifacts
+end_time: 1763812964706
+entry_point_name: ''
+experiment_id: '847327540305891975'
+lifecycle_stage: active
+run_id: 95e6e943bdd5454f8ef50b193ff3379c
+run_name: RandomForest
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763812938413
+status: 3
+tags: []
+user_id: Lenovo

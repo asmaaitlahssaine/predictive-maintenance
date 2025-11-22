@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/Lenovo/Documents/AI-Predictive-Maintenance/mlruns/847327540305891975/models/m-af2651147d6e4e9981df66c0f4e9c7ed/artifacts
+creation_timestamp: 1763812965934
+experiment_id: '847327540305891975'
+last_updated_timestamp: 1763812972089
+model_id: m-af2651147d6e4e9981df66c0f4e9c7ed
+model_type: null
+name: model
+source_run_id: a30376e68b9d4171912f8725977dc86f
+status: 2
+status_message: null

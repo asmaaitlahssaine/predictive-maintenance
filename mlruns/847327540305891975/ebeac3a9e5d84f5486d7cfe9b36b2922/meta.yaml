@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Lenovo/Documents/AI-Predictive-Maintenance/mlruns/847327540305891975/ebeac3a9e5d84f5486d7cfe9b36b2922/artifacts
+end_time: 1763811307221
+entry_point_name: ''
+experiment_id: '847327540305891975'
+lifecycle_stage: active
+run_id: ebeac3a9e5d84f5486d7cfe9b36b2922
+run_name: XGBoost
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763811298690
+status: 3
+tags: []
+user_id: Lenovo
