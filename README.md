@@ -2,7 +2,7 @@
 # 🚗 Predictive Maintenance – End-to-End MLOps Project
 
 This project implements a complete **Predictive Maintenance Pipeline** for engine condition classification using real-like sensor data.  
-It includes **data preprocessing**, **feature engineering**, **model training**, **MLflow experiment tracking**, **Streamlit dashboard**, **unit tests**, and **CI/CD automation**.
+It includes **data preprocessing**, **feature engineering**, **model training**, **MLflow experiment tracking**, **Streamlit dashboard** and **unit tests**
 
 ---
 
@@ -193,5 +193,4 @@ This project demonstrates:
 * Interactive dashboard
 * Testing and reproducibility
 
-It is suitable for **Data Engineer**, **AI Engineer**, and **MLOps** portfolios.
 
